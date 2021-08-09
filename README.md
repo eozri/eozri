@@ -7,7 +7,7 @@
 
 
 # socials 🌎
-<img src="https://discord.c99.nl/widget/theme-2/804066223741730836.png">
+<img src="https://discord.c99.nl/widget/theme-2/322514951627603969.png">
 
 
 # Languages 🖥️
